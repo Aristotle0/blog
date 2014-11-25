@@ -82,6 +82,8 @@ disqus_shortname:
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: landscape-plus
 exclude_generator:
+Plugins:
+- hexo-math
 
 # Markdown
 ## https://github.com/chjj/marked
