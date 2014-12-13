@@ -1,4 +1,4 @@
-title: Git Summary
+title: Git 总结
 date: 2014-11-17 08:27:59
 tags: 
 - Git

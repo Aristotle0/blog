@@ -81,9 +81,10 @@ disqus_shortname:
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: landscape-plus
+# theme: modernist
 exclude_generator:
 Plugins:
-- hexo-math
+# - hexo-math
 
 # Markdown
 ## https://github.com/chjj/marked
